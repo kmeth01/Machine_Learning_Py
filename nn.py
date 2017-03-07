@@ -1,8 +1,3 @@
-'''
-    TEMPLATE FOR MACHINE LEARNING HOMEWORK
-    AUTHOR Eric Eaton
-'''
-
 import numpy as np
 from PIL import Image
 import math
